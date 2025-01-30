@@ -1,3 +1,3 @@
 # polikart
 
-this makes jsakson polik stylr random art 
+this makes Jakson mpolik stylr random art 
